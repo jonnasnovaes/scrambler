@@ -1,0 +1,1 @@
+start python -m PyQt5.uic.pyuic C:\Users\Jhonnata\Desktop\scrambler\ui\mainUi.ui -o C:\Users\Jhonnata\Desktop\scrambler\ui\mainUi.py -x
